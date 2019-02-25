@@ -153,4 +153,4 @@ async def cu(ctx):
     await ctx.message.delete()
 
 
-bot.run(bot.run(os.environ('NTQxNjU3NTg5NjAwMjIzMjM0.DziuZQ.AlTHzoR1jXwgumjjkuTME3FQojs'))) #Lancer le bot. Remplacez token par votre token et laissez les apostrophes
+bot.run(bot.run(os.environ('CECI EST UN TOKEN'))) #Lancer le bot. Remplacez token par votre token et laissez les apostrophes
